@@ -2,6 +2,7 @@
 # Charletta Towns
 ![2023](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-JustSharkiee/assets/154033375/c629d558-77f1-428e-82d8-4b97cb7c10ba)
 `<p>All about me<p>`
-- [x] Item one
-- [ ] Item two
-- [ ] Item three
+
+- [x]14
+- [x]25
+- [x]21
