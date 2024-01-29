@@ -4,3 +4,6 @@
 ```
 All about me
 ```
+- [x] Item one
+- [ ] Item two
+- [ ] Item three
